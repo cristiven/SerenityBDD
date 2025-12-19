@@ -20,7 +20,7 @@ Download [IntelliJ IDEA](https://www.jetbrains.com/idea/download/): IntelliJ IDE
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/maryovos/SerenityBDDCucumberStarter.git
+   git clone https://github.com/cristiven/SerenityBDD
 
 2. Navigate to the project directory:
 
